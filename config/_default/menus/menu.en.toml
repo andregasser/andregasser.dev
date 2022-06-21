@@ -1,0 +1,62 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Infosec"
+  url = "categories/infosec/"
+  weight = -109
+
+[[main]]
+  name = "Software Engineering"
+  url = "categories/software-engineering/"
+  weight = -108
+
+[[main]]
+  name = "DIY"
+  url = "categories/diy/"
+  weight = -107
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -106
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/andregasser"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/andregasser"
+[[social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://ch.linkedin.com/in/andr%C3%A9-gasser-94a84099"
+[[social]]
+  name = "stackoverflow"
+  weight = 4
+  url = "https://stackoverflow.com/users/3077218/andr%c3%a9-gasser"
+[[social]]
+  name = "rss"
+  weight = 5
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"
