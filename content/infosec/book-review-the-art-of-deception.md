@@ -1,9 +1,10 @@
 ---
-title: Book Review "The Art of Deception"
+title: Book Review "The Art of Deception" By Kevin D. Mitnick
 date: 2022-06-21T23:13:09+02:00
-draft: false
-featureImage: /images/the-art-of-deception-book-review.png
-thumbnail: /images/the-art-of-deception-book-review.png
+summary: Guguseli erere
+description: Join my ride on the bug bounty journey.
+featureImage: /images/book-reviews/book-review-the-art-of-deception.png
+thumbnail: /images/book-reviews/book-review-the-art-of-deception.png
 categories:
     - Infosec
 tags:

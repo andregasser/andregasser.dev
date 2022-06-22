@@ -1,9 +1,10 @@
 ---
-title: Book Review "The Art of Intrusion"
+title: Book Review "The Art of Intrusion" By Kevin D. Mitnick
 date: 2022-06-21T23:13:09+02:00
-draft: false
-featureImage: /images/the-art-of-intrusion-book-review.png
-thumbnail: /images/the-art-of-intrusion-book-review.png
+summary: Guguseli erere
+description: Join my ride on the bug bounty journey.
+featureImage: /images/book-reviews/book-review-the-art-of-intrusion.png
+thumbnail: /images/book-reviews/book-review-the-art-of-intrusion.png
 categories:
     - Infosec
 tags:

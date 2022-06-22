@@ -8,7 +8,7 @@ featured: true
 featureImage: /images/path/file.jpg
 thumbnail: /images/path/thumbnail.png
 categories:
-  - Software Engineering
+  - DIY
 tags:
   - Tag_name1
   - Tag_name2

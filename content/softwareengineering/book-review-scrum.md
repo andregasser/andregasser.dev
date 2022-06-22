@@ -1,9 +1,10 @@
 ---
-title: Book Review "Scrum - Agiles Projectmanagement erfolgreich einsetzen"
+title: Book Review "Scrum - Agiles Projektmanagement erfolgreich einsetzen" By Roman Pichler
 date: 2022-06-21T23:13:09+02:00
-draft: false
-featureImage: /images/scrum-book-review.png
-thumbnail: /images/scrum-book-review.png
+summary: Guguseli erere
+description: Join my ride on the bug bounty journey.
+featureImage: /images/book-reviews/book-review-scrum.png
+thumbnail: /images/book-reviews/book-review-scrum.png
 categories:
     - Software Engineering
 tags:
