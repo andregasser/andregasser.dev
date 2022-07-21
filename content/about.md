@@ -12,7 +12,7 @@ Hello!
 
 Welcome to my blog where I post stuff about topics that keep me busy during the day. I run this blog in the hope that the content will help other people like you, but also to document interesting topics for myself as a reference.
 
-I live in [Zürich, Switzerland](https://www.google.ch/maps/place/Z%C3%BCrich "Zürich, Switzerland") together with my family. We have two kids and three cats (!). meoow!
+I live in [Zürich, Switzerland](https://www.google.ch/maps/place/Z%C3%BCrich) together with my family. We have two kids and three cats (!). meoow!
 
 During my day job, I spend most of the time writing code in either **Java** or **Kotlin**, combined with **Spring Framework**. I also dedicate a lot of my time to **Information Security**, or **Cyber Security**, as it is called nowadays. Personally, I think, Software Engineering and Information Security are key skills to master these days. So, I'll do my best :smile:
 
