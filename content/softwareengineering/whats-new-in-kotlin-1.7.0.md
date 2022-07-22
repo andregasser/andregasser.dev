@@ -1,5 +1,5 @@
 ---
-title: Whats New in Kotlin 1.7.0
+title: What's New in Kotlin 1.7.0
 date: 2022-06-22T08:24:01+02:00
 summary: A new release of Kotlin has been made available on 9 June 2022. Let's dive in a bit and find ou what new features and improvements it brings us as developers.
 description: Article description.
