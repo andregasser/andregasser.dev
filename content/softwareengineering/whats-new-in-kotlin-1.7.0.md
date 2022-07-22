@@ -13,7 +13,7 @@ tags:
   - Kotlin
 ---
 
-Kotlin 1.7.0 has been released on 9 June 2022 and with it comes a big list of improvements/new features along the way. In this article, we will have a closer look at the features offered to Kotlin developers working on the JVM. There were many more changes of course, such as in Kotlin/JS or Kotlin/Native. For the full list of changes checkout [this page](https://kotlinlang.org/docs/whatsnew17.html).
+Kotlin 1.7.0 has been released on 9 June 2022 and with it comes a big list of improvements/new features along the way. In this article, we will have a closer look at the features offered to Kotlin developers working on the JVM. There were many more changes of course, such as in Kotlin/JS or Kotlin/Native. For the full list of changes check out [this page](https://kotlinlang.org/docs/whatsnew17.html).
 
 # Kotlin/K2 Compiler
 {{% notice note "Note" %}}
@@ -78,7 +78,7 @@ fun main() {
 # Standard Library
 
 ## Deep Recursive Functions
-There was also a nice addition to the Standard Library of Kotlin. The feature is called **Deep Recursive Functions**. It is useful for cases, where deep recursion is required. It allows you to define a function which keeps its stack on the heap and thus does not throw a StackOverflowError when it calls itself recursively 100'000 times. The Kotlin team recommends to use this feature if recursion depth exceeds 1000 calls. 
+There was also a nice addition to the Standard Library of Kotlin. The feature is called **Deep Recursive Functions**. It is useful for cases, where deep recursion is required. It allows you to define a function that keeps its stack on the heap and thus does not throw a StackOverflowError when it calls itself recursively 100'000 times. The Kotlin team recommends using this feature if recursion depth exceeds 1000 calls. 
 
 Have a look at this code, which generates a tree consisting of 100'000 nodes:
 
@@ -138,5 +138,5 @@ println(absentOptional.getOrElse {
 ```
 
 # Conclusion
-Besides massive performance optimizations, the new Kotlin release has also brought some really nice feature additions. 
+Besides massive performance optimizations, the new Kotlin release has also brought some nice feature additions. 
 
